@@ -1,12 +1,13 @@
 ***Privanetix Node Setup guide***
 
 **Requirements** 👇 
-▫️ OS: Debian/Ubuntu (Recommended) 
-▫️ Storage: 100GB available 
-▫️ Memory: 8GB RAM 
-▫️ Processor: 16 cores, x86 architecture Network:
-▫️ Public static IP 
-▫️ Port: Open TCP port 8181 
+
+  ▫️ OS: Debian/Ubuntu (Recommended) 
+  ▫️ Storage: 100GB available 
+  ▫️ Memory: 8GB RAM 
+  ▫️ Processor: 16 cores, x86 architecture Network:
+  ▫️ Public static IP 
+  ▫️ Port: Open TCP port 8181 
 
 
 1. *Install Docker* (skip this if Docker is already installed).
