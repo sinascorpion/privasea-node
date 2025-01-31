@@ -3,10 +3,15 @@
 **Requirements** 👇 
 
   ▫️ OS: Debian/Ubuntu (Recommended) 
+  
   ▫️ Storage: 100GB available 
+  
   ▫️ Memory: 8GB RAM 
+  
   ▫️ Processor: 16 cores, x86 architecture Network:
+  
   ▫️ Public static IP 
+  
   ▫️ Port: Open TCP port 8181 
 
 
